@@ -24,11 +24,9 @@
 <img align="left" alt="Java" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/java-22-225997.png"/>
 <img align="left" alt="Spring" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/spring-16-283031.png"/>
 <img align="left" alt="Docker" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/docker-12-1175229.png"/>
-<img align="center" alt="Elastic Stack" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/elasticsearch-226094.png"/>
-<img align="center" alt="NodeJs" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/nodejs-1-226034.png"/>
-<img align="center" alt="ElectronJS" width="32px" src="https://user-images.githubusercontent.com/3600593/60781010-41dfae80-a173-11e9-99f9-03a8b712b87d.png"/>
-<br />
-<br />
+<img align="left" alt="Elastic Stack" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/elasticsearch-226094.png"/>
+<img align="left" alt="NodeJs" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/nodejs-1-226034.png"/>
+<img align="left" alt="ElectronJS" width="32px" src="https://user-images.githubusercontent.com/3600593/60781010-41dfae80-a173-11e9-99f9-03a8b712b87d.png"/>
 
 ## 🎵 Escutando:
 
