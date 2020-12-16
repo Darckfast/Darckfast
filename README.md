@@ -31,10 +31,10 @@
 <br />
 <br />
 
+<!--
 ## 🎵 Escutando:
-
 [![Spotify](https://novatorem.darckfast.vercel.app/api/spotify)](https://open.spotify.com/user/znzdarck)
-
+-->
 
 [linkedin]: https://linkedin.com/in/victor-costa-590062144/
 
