@@ -22,21 +22,19 @@
 <img align="left" alt="React" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/react-3-1175109.png"/>
 <img align="left" alt="GitLab" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/gitlab-282507.png"/>
 <img align="left" alt="Java" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/java-22-225997.png"/>
-<img align="left" alt="Spring" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/spring-16-283031.png"/>
+<img align="left" alt="Spring Boot" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/spring-16-283031.png"/>
 <img align="left" alt="Docker" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/docker-12-1175229.png"/>
 <img align="left" alt="Elastic Stack" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/elasticsearch-226094.png"/>
 <img align="left" alt="NodeJs" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/nodejs-1-226034.png"/>
 <img align="left" alt="ElectronJS" width="32px" src="https://user-images.githubusercontent.com/3600593/60781010-41dfae80-a173-11e9-99f9-03a8b712b87d.png"/>
+<img align="left" alt="NextJS" width="32px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"/>
 
 <br />
 <br />
-
 
 ## 🎵 Escutando:
 [![Spotify](https://novatorem.darckfast.vercel.app/api/spotify)](https://open.spotify.com/user/znzdarck)
 
-
 [linkedin]: https://linkedin.com/in/victor-costa-590062144/
-
 
 ### ✌️ Peace 
