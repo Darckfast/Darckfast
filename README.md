@@ -4,13 +4,6 @@
 * 👌 Criando alguns apps 
 * 😄 Me divertindo descobrindo novas tecnologias
 
-
-## Me encontre em:
-[<img align="left" alt="Meu LinkedIn" width="32px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />][linkedin]
-
-<br />
-<br />
-
 ### Tecnologias e ferramentas que eu já usei:
 <img align="left" alt="Visual Studio Code" width="32px" src="https://img.icons8.com/fluent/452/visual-studio-code-2019.png"/>
 <img align="left" alt="IntelliJ" width="32px" src="https://cdn.iconscout.com/icon/free/png-256/intellij-idea-569199.png"/>
