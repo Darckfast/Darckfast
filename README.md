@@ -1,10 +1,4 @@
-## Olá 👋
-
-### Estou:
-* 👌 Criando alguns apps 
-* 😄 Me divertindo descobrindo novas tecnologias
-
-<br />
+![term](show-off-term.vercel.app/api/code)
 
 ##
 ![Music card](https://spotify-card.darckfast.vercel.app/api/music-card)
